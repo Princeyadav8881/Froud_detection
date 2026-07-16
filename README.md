@@ -70,7 +70,7 @@ The dataset contains financial transaction records with the following features:
 | newbalanceDest | Receiver balance after transaction |
 | isFraud | Fraud label (Target Variable) |
 | isFlaggedFraud | Flagged suspicious transaction |
-
+## Dataset link :https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset
 ---
 
 ## 🔄 Project Workflow
