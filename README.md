@@ -117,7 +117,7 @@ Evaluation Metrics:
 
 ## 💻 Sample Prediction
 
-### Example 1: Legitimate Transaction
+### : Legitimate Transaction
 
 **Input**
 
@@ -140,7 +140,7 @@ Enter isFlaggedFraud (0 or 1): 0
 
 ---
 
-### Example 2: Fraudulent Transaction
+### : Fraudulent Transaction
 
 **Input**
 
@@ -198,13 +198,13 @@ AI-Powered-Financial-Fraud-Detection/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Powered-Financial-Fraud-Detection.git
+https://github.com/Princeyadav8881/Froud_detection.git
 ```
 
 Move into the project directory
 
 ```bash
-cd AI-Powered-Financial-Fraud-Detection
+cd Fraud_Detection
 ```
 
 Install dependencies
@@ -262,12 +262,12 @@ Add screenshots of:
 
 ---
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 
-**Prince Yadav **
-B.Tech Computer Science & Engineering
+Prince Yadav
+
+(B.Tech Computer Science & Engineering)
 
 
 ---
 
-## ⭐ If you found this project useful, don't forget to Star the repository.
